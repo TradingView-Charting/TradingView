@@ -1,6 +1,11 @@
-# TradingView Desktop
+## TradingView Desktop - Official GitHub Repository
 ### Experience extra power, extra speed and extra flexibility, all with the same UX you know and love.
-[download]
+
+<a href="https://tvd-packages.tradingview.com/stable/latest/win32/TradingView.msix" target="_blank">
+  <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">
+    ⬇️ Download for Windows
+  </button>
+</a>
 
 <img src="https://static.tradingview.com/static/bundles/multi-monitors-tablet.5a5a0eb00b0ffad02a54.svg">
 
